@@ -1,0 +1,11 @@
+numero = int(input('Digite um número e veja se é par ou impar: '))
+
+if numero % 2 == 0:
+    print(f'{numero} é par!')
+
+else:
+    print(f'{numero} é impar!')
+
+    
+
+
